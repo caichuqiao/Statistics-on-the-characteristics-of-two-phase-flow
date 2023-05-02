@@ -34,3 +34,4 @@ path_avi=os.path.join(path,'3_liq_3_gas_mid_CR600x2_1836-ST-B-062_1.avi')
 #---------Change the path C:/GraduateWork/deeplabv3-plus-pytorch/predict.py into yourselfs-------#
 res=os.popen('python C:/GraduateWork/deeplabv3-plus-pytorch/predict.py --pathi %s --patho %s'%(path_png,path_data))
 ```
+If you have followed the instructions above, please just run general.py directly.
