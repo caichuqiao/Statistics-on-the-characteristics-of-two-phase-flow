@@ -39,8 +39,5 @@ If you have followed the instructions above, please just run general.py directly
 Example of the original video of gas-liquid two-phase flow:   
 <div align=center><img width="150" src="[https://img-blog.csdn.net/20161028230559575](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0i.png)"/></div>  
 Example of the processed video of gas-liquid two-phase flow:   
-![0.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0.png)   
 Distribution diagram of length and area of gas-liquid two-phase flow gived by programm:   
-![len&sqr.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/len%26sqr.png)   
 Distribution diagram of veolocity of gas-liquid two-phase flow gived by programm:   
-![velocity.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/velocity.png)
