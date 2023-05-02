@@ -29,5 +29,7 @@ mode=0
 #---------Path where stores the video-------#
 path='C:/GraduateWork/deeplabv3-plus-pytorch/general/video/'
 #---------The name of video file(for example: 3_liq_3_gas_mid_CR600x2_1836-ST-B-062_1.avi)----------#
-path_avi=os.path.join(path,'3_liq_3_gas_mid_CR600x2_1836-ST-B-062_1.avi')
+path_avi=os.path.join(path,'3_liq_3_gas_mid_CR600x2_1836-ST-B-062_1.avi')   
+#---------Change the path C:/GraduateWork/deeplabv3-plus-pytorch/predict.py into yourselfs-------#
+res=os.popen('python C:/GraduateWork/deeplabv3-plus-pytorch/predict.py --pathi %s --patho %s'%(path_png,path_data))
 ```
