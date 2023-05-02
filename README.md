@@ -37,10 +37,11 @@ res=os.popen('python C:/GraduateWork/deeplabv3-plus-pytorch/predict.py --pathi %
 If you have followed the instructions above, please just run general.py directly.
 ## Achievements
 Example of the original video of gas-liquid two-phase flow:   
-<div align=center>![0i.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0i.png)   
+<div align=center><img width="150" src="[https://img-blog.csdn.net/20161028230559575](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0i.png)"/>
+![0i.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0i.png)   
 Example of the processed video of gas-liquid two-phase flow:   
-<div align=center>![0.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0.png)   
+![0.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0.png)   
 Distribution diagram of length and area of gas-liquid two-phase flow gived by programm:   
-<div align=center>![len&sqr.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/len%26sqr.png)   
+![len&sqr.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/len%26sqr.png)   
 Distribution diagram of veolocity of gas-liquid two-phase flow gived by programm:   
-<div align=center>![velocity.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/velocity.png)
+![velocity.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/velocity.png)
