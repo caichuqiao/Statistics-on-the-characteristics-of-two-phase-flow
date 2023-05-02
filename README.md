@@ -16,3 +16,18 @@ You can configure the environment required to run the program through the follow
 ```
 pip install -r requirements.txt
 ```
+## Parameters need to be aware of
+In file general.py:
+```
+#---------Get length and area distribution diagram---------#
+len_sqr=1
+#-----------Get the speed distribution map ------------#
+velocity=1
+#----------Whether it is a variable cross-section microchannel -----------#
+#Constant cross-section microchannel-mode=0 Variable cross-section microchannel-mode=1#
+mode=0
+#---------Path where stores the video-------#
+path='C:/GraduateWork/deeplabv3-plus-pytorch/general/video/'
+#---------The name of video file(for example: 3_liq_3_gas_mid_CR600x2_1836-ST-B-062_1.avi)----------#
+path_avi=os.path.join(path,'3_liq_3_gas_mid_CR600x2_1836-ST-B-062_1.avi')
+```
