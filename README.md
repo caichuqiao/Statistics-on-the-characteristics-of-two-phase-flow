@@ -7,12 +7,12 @@ The link of source code of deeplabv3+ I used as follows：
 The link of the weight file as follows:
 [Weight file](https://drive.google.com/file/d/1YD-unu-BO5ZAAszYWBkj8oB8G-iTN72o/view?usp=share_link)
 Remember to modify the parameters in the neural network,
-'''
+```
 name_classes = ["background","liquid","gas"]
-'''
+```
 where gas corresponds to green color, and liquid corresponds to red color.
 ## Configuration Environment
 You can configure the environment required to run the program through the following commands.
-'''
+```
 pip install -r requirements.txt
-'''
+```
