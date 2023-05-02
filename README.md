@@ -37,9 +37,9 @@ res=os.popen('python C:/GraduateWork/deeplabv3-plus-pytorch/predict.py --pathi %
 If you have followed the instructions above, please just run general.py directly.
 ## Achievements
 Example of the original video of gas-liquid two-phase flow:   
-<div align=center><img width="3000" src="https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0i.png"/></div>  
+<div align=center><img width="500" src="https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0i.png"/></div>  
 Example of the processed video of gas-liquid two-phase flow:   
-<div align=center><img width="3000" src="https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0.png"/></div>  
+<div align=center><img width="500" src="https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0.png"/></div>  
 Distribution diagram of length and area of gas-liquid two-phase flow gived by programm:   
 <div align=center><img width="500" src="https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/len%26sqr.png"/></div>  
 Distribution diagram of veolocity of gas-liquid two-phase flow gived by programm:   
