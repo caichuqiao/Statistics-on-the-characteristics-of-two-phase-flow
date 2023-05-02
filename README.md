@@ -35,3 +35,12 @@ path_avi=os.path.join(path,'3_liq_3_gas_mid_CR600x2_1836-ST-B-062_1.avi')
 res=os.popen('python C:/GraduateWork/deeplabv3-plus-pytorch/predict.py --pathi %s --patho %s'%(path_png,path_data))
 ```
 If you have followed the instructions above, please just run general.py directly.
+## Achievements
+Example of the original video of gas-liquid two-phase flow:   
+![0i.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0i.png)   
+Example of the processed video of gas-liquid two-phase flow:   
+![0.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0.png)   
+Distribution diagram of length and area of gas-liquid two-phase flow gived by programm:   
+![len&sqr.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/len%26sqr.png)   
+Distribution diagram of veolocity of gas-liquid two-phase flow gived by programm:   
+![velocity.png](https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/velocity.png)
