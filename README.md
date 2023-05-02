@@ -36,7 +36,7 @@ res=os.popen('python C:/GraduateWork/deeplabv3-plus-pytorch/predict.py --pathi %
 ```
 If you have followed the instructions above, please just run general.py directly.
 ## Achievements
-**<p align="center">Example of the original video of gas-liquid two-phase flow:</p>**   
+<p align="center">Example of the original video of gas-liquid two-phase flow:</p>  
 <div align=center><img width="500" src="https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0i.png"/></div>  
 <p align="center">Example of the processed video of gas-liquid two-phase flow:</p>
 <div align=center><img width="500" src="https://github.com/caichuqiao/Statistics-on-the-characteristics-of-two-phase-flow/blob/main/pic/0.png"/></div>  
